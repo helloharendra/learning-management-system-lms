@@ -12,6 +12,22 @@ Whether you want to launch an online learning platform, digitize classroom educa
 
 ---
 
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Courses</b><br><br><img src="screenshots/2-courses.png" alt="Courses"></td>
+    <td align="center" width="50%"><b>Learn</b><br><br><img src="screenshots/3-learn.png" alt="Learn"></td>
+  </tr>
+</table>
+
+---
+
 ## What Is a Learning Management System?
 
 A Learning Management System (LMS) is a software platform used to create, organize, deliver, and manage educational courses and training programs.
@@ -357,17 +373,3 @@ Naya Prayog Technologies can help you transform your educational requirements in
 This repository serves as a service and project showcase for Learning Management System (LMS) development by Naya Prayog Technologies.
 
 It does not grant permission to redistribute, resell, or commercially reuse proprietary company materials or software. Project-specific source code, deliverables, and licensing terms are agreed separately.
-
-<!-- screenshots -->
-## Screenshots
-
-**Dashboard**
-
-![Dashboard](screenshots/1-dashboard.png)
-
-<table>
-  <tr>
-    <td align="center" width="50%"><b>Courses</b><br><br><img src="screenshots/2-courses.png" alt="Courses"></td>
-    <td align="center" width="50%"><b>Learn</b><br><br><img src="screenshots/3-learn.png" alt="Learn"></td>
-  </tr>
-</table>
